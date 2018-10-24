@@ -1,6 +1,6 @@
 # Doubly-Linked-List-Stack-and-Queue-Implementation-in-C-Plus-Plus
 
-# The following provides a description of the functions to be implemented for the List class.
+# The following provides a description of the functions for the List class.
 
 # List()
 This is the default constructor for the doubly linked list
