@@ -49,7 +49,7 @@ operation.
 # int Length()
 This function returns the number of nodes presently in the linked list.
 
-# The following is a summary of the functions that you must implement for the Stack class:
+# The following is a summary of the functions for the Stack class:
 
 # Stack()
 The default constructor for the Stack class.
